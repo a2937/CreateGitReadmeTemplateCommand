@@ -8,7 +8,7 @@ was created by PurpleBooth in this [Gist](https://gist.github.com/PurpleBooth/10
 
 ## Getting Started
 
-In order to use this utility, download the master of this repository. TO edit these files, use any text editor like Notepad++ or Vim. 
+In order to use this utility, download the master of this repository. To edit these files, use any text editor like Notepad++ or Vim. 
 
 ### Prerequisites
 
@@ -20,7 +20,7 @@ Windows, MacOS, and most Linux distributions
 
 ### Installing
 
-Extract the NewGitReadme.bat and Readme.md file into a location on your computer.
+Extract the NewGitReadme.bat and Readme_template.md file into a location on your computer.
 The preferred file location would be a spot under the Path environment variable so this command can actually be used anywhere. 
 
 
