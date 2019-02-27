@@ -1,4 +1,4 @@
-#CreateGitReadmeTemplateCommand
+# CreateGitReadmeTemplateCommand
 
 Tired of seeing and using improper Github readme files, I 
 decided to create a command that would create a readme file
