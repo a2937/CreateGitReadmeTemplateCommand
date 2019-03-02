@@ -1,42 +1,80 @@
-# CreateGitReadmeTemplateCommand
+# Project Title
 
-Tired of seeing and using improper Github readme files, I 
-decided to create a command that would create a readme file
-right in practically any directory from a template. This template
-was created by PurpleBooth in this [Gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
-
+One Paragraph of project description goes here
 
 ## Getting Started
 
-In order to use this utility, download the master of this repository. To edit these files, use any text editor like Notepad++ or Vim. 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-An operating system that supports batch scripts. 
+What things you need to install the software and how to install them
 
 `
-Windows, MacOS, and most Linux distributions
+Give examples
 `
 
 ### Installing
 
-Extract the NewGitReadme.bat and Readme_template.md file into a location on your computer.
-The preferred file location would be a spot under the Path environment variable so this command can actually be used anywhere. 
+A step by step series of examples that tell you how to get a development env running
 
+Say what the step will be
 
-Example:
-'
-D:/NewWindowsCommands
-'
+`
+Give the example
+`
 
-In the example, I have made a directory called NewWindowsCommands on my D drive and already added it to the path. 
+And repeat
+
+`
+until finished
+`
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+`
+Give an example
+`
+
+### And coding style tests
+
+Explain what these tests test and why
+
+`
+Give an example
+`
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Aaron Cottrill** - *Creating the bash script* - [a2937](https://github.com/a2937)
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
@@ -44,5 +82,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Billie Thompson aka [PurpleBooth](https://github.com/PurpleBooth)PurpleBooth for the template file I am using
-
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
